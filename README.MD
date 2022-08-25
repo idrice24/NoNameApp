@@ -2,7 +2,7 @@
 
 <p align="center">
 
- <a href="https://github.com/idrice24/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/idrice24/NoNaeApp?style=flat-square"></a>
+ <a href="https://github.com/idrice24/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/idrice24/NoNameApp?color=blue"></a>
 <a href="https://app.circleci.com/pipelines/github/idrice24/NoNameApp" title="Circleci"><img src="https://img.shields.io/appveyor/build/idrice24/NoNameApp"></a>
   <a href="https://github.com/idrice24/NoNameApp/blob/master/LICENSE" title="License"><img src="https://img.shields.io/github/license/idrice24/NoNameApp?style=flat-square"></a>
 
