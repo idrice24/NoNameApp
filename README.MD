@@ -6,7 +6,7 @@
   <a href="https://app.circleci.com/pipelines/github/idrice24/NoNameApp" title="Circleci"><img src="https://img.shields.io/appveyor/build/idrice24/NoNameApp"></a>
   <a href="https://github.com/idrice24/NoNameApp/blob/master/LICENSE" title="License"><img src="https://img.shields.io/github/license/idrice24/NoNameApp?style=flat-square"></a>
   <a href="https://github.com/idrice24/issues" title="Closed Issue"><img src="https://img.shields.io/github/issues-closed-raw/idrice24/NoNameApp"></a>
-  <a href="https://github.com/idrice24/commits" title="Commit Activity"> <img src="https://img.shields.io/github/commit-activity/y/idrice24/NoNameApp"></a>
+  <a href="https://github.com/idrice24/commits" title="Commit Activity"> <img src="https://img.shields.io/github/commit-activity/m/idrice24/NoNameApp"></a>
 
 
 </p>
